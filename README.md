@@ -30,3 +30,5 @@ How packets are structured in layers (IP, TCP/UDP, payload), how common protocol
 
 ## Disclaimer
 For educational use only. Capture traffic only on networks you own or have permission to monitor.
+<img width="1539" height="1030" alt="Screenshot 2026-10-31 111156" src="https://github.com/user-attachments/assets/fd75cb1d-c5b5-47b3-91e4-de1cd31dbead" />
+<img width="1907" height="1241" alt="Screenshot 2026-10-31 111147" src="https://github.com/user-attachments/assets/eded2ecd-8839-46ff-b54c-701c3f0b2742" />
